@@ -52,3 +52,5 @@ follow these links to understand how to create a Telegram bot and paste the id i
 If you are not using Telegram bot clear the field like this
 telegrambottoken : ''
 telegrambotchatId : ''
+Generate totp as shown in this video
+https://www.youtube.com/watch?v=yJi3SuQc_Xk
